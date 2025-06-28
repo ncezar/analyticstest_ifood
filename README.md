@@ -13,7 +13,8 @@ Este repositório contém um notebook Databricks que analisa os resultados de um
 │
 ├── data/
 │ └── (arquivos .csv e .json.gz)
-| └── upload_instructions.md 
+| └── upload_instructions.md # Instruções de upload dos dados no Databrics Community
+| └── tabela_final.xlsx # Tabela final citada em "relatorio.pdf"
 │
 ├── relatorio.pdf # Relatório com análises e conclusões
 |
