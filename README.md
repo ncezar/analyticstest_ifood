@@ -1,6 +1,6 @@
 # 📊 iFood A/B Test Analysis on Databricks (Community Edition)
 
-Este repositório contém um notebook Databricks que analisa os resultados de um experimento A/B com cupons no iFood (para fins de avaliação de desafio), utilizando dados públicos e processamento com PySpark.
+Este repositório contém um notebook Databricks que analisa os resultados de um experimento A/B com cupons no iFood (para fins de avaliação de desafio), utilizando dados fornecidos e processamento com PySpark.
 
 ---
 
