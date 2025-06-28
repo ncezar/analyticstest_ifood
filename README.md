@@ -9,7 +9,7 @@ Este repositório contém um notebook Databricks que analisa os resultados de um
 /ifood-ab-test/
 │
 ├── notebooks/
-│ └── ifood_ab_test_analysis.dbc # Notebook exportado do Databricks
+│ └── ifood-data-analysis-test.dbc # Notebook exportado do Databricks
 │
 ├── data/
 │ └── (arquivos .csv e .json.gz)
