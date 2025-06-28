@@ -5,7 +5,7 @@ Este repositório contém um notebook Databricks que analisa os resultados de um
 ---
 
 ## 📁 Estrutura do Repositório:
-
+```
 /ifood-ab-test/
 │
 ├── notebooks/
@@ -15,8 +15,7 @@ Este repositório contém um notebook Databricks que analisa os resultados de um
 │ └── (suba aqui os arquivos .csv e .json.gz)
 │
 ├── README.md # Este arquivo
-
----
+```
 
 ## 🧾 Dados Utilizados
 
