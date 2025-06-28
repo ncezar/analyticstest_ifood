@@ -25,7 +25,7 @@ Este repositório contém um notebook Databricks que analisa os resultados de um
 
 Os dados vêm dos seguintes arquivos públicos:
 
-- `order.json.gz` => `df.parquet`: dados de pedidos
+- `order.json.gz` => `df.parquet/`: dados de pedidos
 - `consumer.csv.gz`: dados de usuários  
 - `restaurant.csv.gz`: dados de restaurantes  
 - `ab_test_ref.csv.gz`: marcação de grupos de teste e controle  
