@@ -14,6 +14,8 @@ Este repositório contém um notebook Databricks que analisa os resultados de um
 ├── data/
 │ └── (arquivos .csv e .json.gz)
 │
+├── relatorio.pdf # Relatório com análises e conclusões
+|
 ├── README.md # Este arquivo
 ```
 
