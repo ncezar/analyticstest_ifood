@@ -10,6 +10,7 @@ Este repositório contém um notebook Databricks que analisa os resultados de um
 │
 ├── notebooks/
 │ └── ifood-data-analysis-test.dbc # Notebook exportado do Databricks
+| └── upload_instructions.md 
 │
 ├── data/
 │ └── (arquivos .csv e .json.gz)
