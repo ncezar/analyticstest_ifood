@@ -6,7 +6,7 @@ Este repositório contém um notebook Databricks que analisa os resultados de um
 
 ## 📁 Estrutura do Repositório:
 ```
-/ifood-ab-test/
+├──/ifood-ab-test/
 │
 │ └──notebooks/
 │    └── ifood-data-analysis-test.dbc # Notebook exportado do Databricks
