@@ -8,15 +8,15 @@ Este repositório contém um notebook Databricks que analisa os resultados de um
 ```
 /ifood-ab-test/
 │
-├── notebooks/
-│ └── ifood-data-analysis-test.dbc # Notebook exportado do Databricks
-│ └── ifood-data-analysis-test.ipynb #Notebook separado apenas como bkp
+│ └──notebooks/
+│    └── ifood-data-analysis-test.dbc # Notebook exportado do Databricks
+│    └── ifood-data-analysis-test.ipynb #Notebook separado apenas como bkp
 │
-├── data/
-| └── upload_instructions.md # Instruções de upload/baixar os arquivos dos dados e dar upload no Databrics Community
-| └── tabela_final.xlsx # Tabela final citada em "relatorio.pdf"
+│ └── data/
+|    └── upload_instructions.md # Instruções de upload/baixar os arquivos dos dados e dar upload no Databrics Community
+|    └── tabela_final.xlsx # Tabela final citada em "relatorio.pdf"
 │
-├── relatorio.pdf # Relatório com análises e conclusões
+│ └──relatorio.pdf # Relatório com análises e conclusões
 |
 ├── README.md # Este arquivo
 ```
