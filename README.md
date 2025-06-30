@@ -13,8 +13,7 @@ Este repositório contém um notebook Databricks que analisa os resultados de um
 │ └── ifood-data-analysis-test.ipynb #Notebook separado apenas como bkp
 │
 ├── data/
-│ └── (arquivos .csv dentro de .zip)
-| └── upload_instructions.md # Instruções de upload dos dados no Databrics Community
+| └── upload_instructions.md # Instruções de upload/baixar os arquivos dos dados e dar upload no Databrics Community
 | └── tabela_final.xlsx # Tabela final citada em "relatorio.pdf"
 │
 ├── relatorio.pdf # Relatório com análises e conclusões
