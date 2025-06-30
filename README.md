@@ -10,6 +10,7 @@ Este repositório contém um notebook Databricks que analisa os resultados de um
 │
 ├── notebooks/
 │ └── ifood-data-analysis-test.dbc # Notebook exportado do Databricks
+│ └── ifood-data-analysis-test.ipynb #Notebook separado apenas como bkp
 │
 ├── data/
 │ └── (arquivos .csv e .zip)
